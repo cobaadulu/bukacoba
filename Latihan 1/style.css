@@ -1,0 +1,11 @@
+*  {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+/* bagian navbar */
+#resetBtn {
+    position: absolute; /* Agar bisa dipindah-pindah */
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
